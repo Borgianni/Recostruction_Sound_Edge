@@ -25,6 +25,11 @@ Install requirements:
 ```bash
 pip install python-rtmidi python-osc
 
+## 🎥 Demo
+<video src="https://github.com/user-attachments/assets/7858616d-1097-4fbf-84b3-34ef08d5676a" controls style="max-width: 100%; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.2);"></video>
+
+If the video doesn’t play correctly, try opening the link directly or ensure you're viewing this README on GitHub.com.
+
 
 
 https://github.com/user-attachments/assets/7858616d-1097-4fbf-84b3-34ef08d5676a
