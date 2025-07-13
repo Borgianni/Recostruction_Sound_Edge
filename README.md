@@ -24,3 +24,9 @@ This system allows ultra-low-latency interaction in networked music performance 
 Install requirements:
 ```bash
 pip install python-rtmidi python-osc
+
+
+
+https://github.com/user-attachments/assets/7858616d-1097-4fbf-84b3-34ef08d5676a
+
+
